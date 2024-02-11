@@ -1,0 +1,14 @@
+01-12-2023,income,sales,14000
+01-12-2023,expense,car,1000
+01-12-2023,income,sales,15000
+01-12-2023,income,sales,6000
+01-12-2024,income,sales,2000
+01-10-2023,expense,home,8000
+30-01-2024,expense,clothes,400
+01-12-2023,income,sales,300
+01-12-2023,income,sales,4000
+01-11-2023,expense,home,8000
+11-02-2024,expense,health,100
+10-01-2024,expense,health,100
+
+
